@@ -1,0 +1,14 @@
+KDE'nin dünü , bugünü ve geleceği konuşulacak.
+
+KDE projesi nasıl başladı , hangi teknolojileri kullandı ve şu an hangi teknolojileri kullanıyor. 
+"Hacker kültüründeki" "fork" yani "çatallama" ile KDE arasındaki ilişki nedir ? LxQT projesi ne katkı sağlar ?
+
+gibi konuların incelenmesi , ve ana akım KDE deposuna katkıların nasıl yapılabileceğinin tartışılması gerekiyor.
+"Herkesin" KDE kullandığı bir ortamda , yani herkesin Linux çekirdeğini kullanıp ona katkı yapması gibi
+bizim de KDE'ye katkıların daha organize ve daha estetik , ihtiyaçları karşılar şekilde olmasını sağlamamız gerekiyor.
+
+KDE-TR organizasyonuyuz ancak yabancı arkadaşlar da aramıza gelirse tecrübe aktarımı olur. Zaten bu organizasyon 
+bir "fork" çabası için kurulmadı. "Fork haktır" ancak şu an böyle bir ihtiyaç tespit edilmemiştir.
+
+Biraz tarih okuyalım ve elimizdeki KDE'yi tanıyalım.
+
